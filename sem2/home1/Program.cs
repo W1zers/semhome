@@ -5,27 +5,6 @@
 // 782 -> 8
 // 918 -> 1
 
-
-
-// int Prompt (string message);
-// {
-//         System.Console.Write(message);
-//         string value = Console.ReadLine() ;
-//         int result = Convert.ToInt32;
-//         return result; 
-// }
-// int number = Prompt ("Введите трехзначное число > ");
-// if (number < 100 || number >= 1000 )
-// {
-//         Console.WriteLine("Вы ввели не трехзначное число, пожалуйста повторите ввод");
-
-//         return;
-// }
-
-// Console.WriteLine($"Введенное число `{number}`");
-// int secondRank = number / 10 % 100;
-// Console.WriteLine($"Вторая цифра `{secondRank}`");
-
 int number = ReadInt("Введите трехзначное число: ");
 int num = number.ToString().Length;
 
