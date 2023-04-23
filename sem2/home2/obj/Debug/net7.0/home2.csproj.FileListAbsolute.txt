@@ -1,0 +1,15 @@
+D:\VScode\vscode\С#home\sem2\home2\bin\Debug\net7.0\home2.exe
+D:\VScode\vscode\С#home\sem2\home2\bin\Debug\net7.0\home2.deps.json
+D:\VScode\vscode\С#home\sem2\home2\bin\Debug\net7.0\home2.runtimeconfig.json
+D:\VScode\vscode\С#home\sem2\home2\bin\Debug\net7.0\home2.dll
+D:\VScode\vscode\С#home\sem2\home2\bin\Debug\net7.0\home2.pdb
+D:\VScode\vscode\С#home\sem2\home2\obj\Debug\net7.0\home2.csproj.AssemblyReference.cache
+D:\VScode\vscode\С#home\sem2\home2\obj\Debug\net7.0\home2.GeneratedMSBuildEditorConfig.editorconfig
+D:\VScode\vscode\С#home\sem2\home2\obj\Debug\net7.0\home2.AssemblyInfoInputs.cache
+D:\VScode\vscode\С#home\sem2\home2\obj\Debug\net7.0\home2.AssemblyInfo.cs
+D:\VScode\vscode\С#home\sem2\home2\obj\Debug\net7.0\home2.csproj.CoreCompileInputs.cache
+D:\VScode\vscode\С#home\sem2\home2\obj\Debug\net7.0\home2.dll
+D:\VScode\vscode\С#home\sem2\home2\obj\Debug\net7.0\refint\home2.dll
+D:\VScode\vscode\С#home\sem2\home2\obj\Debug\net7.0\home2.pdb
+D:\VScode\vscode\С#home\sem2\home2\obj\Debug\net7.0\home2.genruntimeconfig.cache
+D:\VScode\vscode\С#home\sem2\home2\obj\Debug\net7.0\ref\home2.dll

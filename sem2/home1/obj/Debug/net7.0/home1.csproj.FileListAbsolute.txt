@@ -1,0 +1,15 @@
+D:\VScode\vscode\С#home\sem2\home1\obj\Debug\net7.0\home1.csproj.AssemblyReference.cache
+D:\VScode\vscode\С#home\sem2\home1\obj\Debug\net7.0\home1.GeneratedMSBuildEditorConfig.editorconfig
+D:\VScode\vscode\С#home\sem2\home1\obj\Debug\net7.0\home1.AssemblyInfoInputs.cache
+D:\VScode\vscode\С#home\sem2\home1\obj\Debug\net7.0\home1.AssemblyInfo.cs
+D:\VScode\vscode\С#home\sem2\home1\obj\Debug\net7.0\home1.csproj.CoreCompileInputs.cache
+D:\VScode\vscode\С#home\sem2\home1\bin\Debug\net7.0\home1.exe
+D:\VScode\vscode\С#home\sem2\home1\bin\Debug\net7.0\home1.deps.json
+D:\VScode\vscode\С#home\sem2\home1\bin\Debug\net7.0\home1.runtimeconfig.json
+D:\VScode\vscode\С#home\sem2\home1\bin\Debug\net7.0\home1.dll
+D:\VScode\vscode\С#home\sem2\home1\bin\Debug\net7.0\home1.pdb
+D:\VScode\vscode\С#home\sem2\home1\obj\Debug\net7.0\home1.dll
+D:\VScode\vscode\С#home\sem2\home1\obj\Debug\net7.0\refint\home1.dll
+D:\VScode\vscode\С#home\sem2\home1\obj\Debug\net7.0\home1.pdb
+D:\VScode\vscode\С#home\sem2\home1\obj\Debug\net7.0\home1.genruntimeconfig.cache
+D:\VScode\vscode\С#home\sem2\home1\obj\Debug\net7.0\ref\home1.dll
