@@ -325,16 +325,16 @@ namespace Y3
                 }
             Console.ReadKey();
             Console.Clear();
-            //Y3.18
-            // Console.WriteLine("Y3.18. Даны натуральные числа m и n. Вычислить 1n + 2n + … + mn.");
-            // int N18m = Input("число m");
-            // int N18n = Input("число n");
-            // int N18sum=0;
-            // for (int a = 1; a <= N18m; a++)
-            //     N18sum += (int)Math.Pow(a,N18n);
-            // Console.WriteLine(N18sum);
-            // Console.ReadKey();
-            // Console.Clear();
+            // Y3.18
+            Console.WriteLine("Y3.18. Даны натуральные числа m и n. Вычислить 1n + 2n + … + mn.");
+            int N18m = Input("число m");
+            int N18n = Input("число n");
+            int N18sum=0;
+            for (int a = 1; a <= N18m; a++)
+                N18sum += (int)Math.Pow(a,N18n);
+            Console.WriteLine(N18sum);
+            Console.ReadKey();
+            Console.Clear();
             // //Y3.19
             // Console.WriteLine("Y3.19. Дано натуральное число n. Вычислить 11 + 22 + … + nn.");
             // int N19n = Input("число n");
